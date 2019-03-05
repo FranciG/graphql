@@ -1,0 +1,100 @@
+{
+  "Students": [
+    {
+      "id": "3",
+      "name": "Terminator",
+      "email": "t1000@hotmail.com",
+      "age": 70,
+      "groupid": "second"
+    },
+    {
+      "id": "4",
+      "name": "Darh Vader",
+      "email": "darksidegoodside@hotmail.com",
+      "age": 3000,
+      "groupid": "third"
+    },
+    {
+      "name": "bart s",
+      "email": "bsimpson@hotmail.com",
+      "groupid": "first",
+      "age": 10,
+      "id": "61f2X2_"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "name": "Math",
+      "desc": "Advanced math",
+      "teacher": "Jhon Rambo"
+    },
+    {
+      "id": "2",
+      "name": "English",
+      "desc": "Advanced english studies",
+      "teacher": "Jhon Rambo"
+    },
+    {
+      "id": "3",
+      "name": "Mathematics",
+      "desc": "Advanced Robotics",
+      "teacher": "Bender B Rodriguez"
+    },
+    {
+      "name": "Programming",
+      "desc": "Poor programming, see teachers name to know why is that",
+      "teacher": "Homer simpson",
+      "id": "CDl_joz"
+    }
+  ],
+  "grades": [
+    {
+      "id": "2",
+      "name": "Jhon",
+      "desc": "Advanced math",
+      "grade": 5,
+      "groupid": "first"
+    },
+    {
+      "id": "3",
+      "name": "Terminator",
+      "desc": "Advanced english",
+      "grade": 2,
+      "groupid": "second"
+    },
+    {
+      "id": "4",
+      "name": "Darh Vader",
+      "desc": "Advanced Robotics",
+      "grade": 5,
+      "groupid": "third"
+    },
+    {
+      "name": "Homer",
+      "desc": "programming",
+      "grade": 0,
+      "group": "first",
+      "id": "OXzvbFB"
+    },
+    {
+      "name": "Homer",
+      "desc": "programming",
+      "grade": 0,
+      "id": "IHUFdTd"
+    },
+    {
+      "name": "Homer",
+      "desc": "programming",
+      "grade": 0,
+      "id": "jnThOmt"
+    },
+    {
+      "name": "Homer",
+      "desc": "programming",
+      "grade": 0,
+      "groupid": "first",
+      "id": "V8gUwvH"
+    }
+  ]
+}
